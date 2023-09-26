@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_LMS Metaclass/Start2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_LMS Metaclass/backend-summer-2021-1-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_LMS Metaclass/hw-backend-summer-2021-2-aiohttp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_LMS Metaclass/hw-backend-summer-2022-3-sql_querying" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_LMS Metaclass/hw-backend-summer-2022-3-sqlalchemy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_LMS Metaclass/kts-school-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_LMS Metaclass/kts-school-backend-all" vcs="Git" />
   </component>
 </project>

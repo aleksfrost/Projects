@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block section %}
+    <table class="words_list">
+        <thead>
+            <tr>
+                <th>ORIGIN</th>
+                <th>TRANSLATION</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for i, j in to_show %}
+            <tr>
+                <td>{{ i }}</td>
+                <td>{{ j }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+

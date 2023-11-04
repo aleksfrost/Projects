@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block section %}
+  <form method="POST" action=''>
+    {% csrf_token %}
+    Enter word in original: <input type="text" name="word1"><br><br>
+    Enter translation: <input type="text" name="word2"><br><br>
+    <input type="submit" value="Submit">
+  </form>
+{% endblock %}
